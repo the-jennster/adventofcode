@@ -1,67 +1,81 @@
-// Elf #1
-18313
-2404
-10479
+// Elf #1: 31196
+var a = 18313;
+var b = 2404;
+var c = 10479;
+var sum = a + b + c;
+console.log (sum);
 
-// Elf #2
-7011
-10279
-1496
-10342
-8918
-3162
-4525
-4368
+// Elf #2: 50101
+var d = 7011;
+var e = 10279;
+var f = 1496;
+var g = 10342;
+var h = 8918;
+var i = 3162;
+var j = 4525;
+var k = 4368;
+var sum2 = d + e + f + g + h + i + j + k;
+console.log (sum2);
 
-// Elf #3
+// Elf #3: 17,242
 17242
 
-// Elf #4
-10920
-14072
-9754
-4435
-9396
+// Elf #4: 48,577
+var l = 10920;
+var m = 14072;
+var n = 9754;
+var o = 4435;
+var p = 9396;
+var sum3 = l + m + n + o + p;
+console.log (sum3);
 
-// Elf #5
-5915
-2602
-4032
-3303
-2685
-1856
-1334
-4865
-6385
-1733
-5328
+// Elf #5: 40,038
+var q = 5915;
+var r = 2602;
+var s = 4032;
+var t = 3303;
+var u = 2685;
+var v = 1856;
+var w = 1334;
+var x = 4865;
+var y = 6385;
+var z = 1733;
+var aa = 5328;
+var sum5 = q + r + s + t + u + v + w + x + y + z + aa;
+console.log (sum5);
 
-// Elf #6
-8899
-5482
-3195
-7837
-8986
-13794
+// Elf #6: 48, 193
+var ab = 8899;
+var ac = 5482;
+var ad = 3195;
+var ae = 7837;
+var af = 8986;
+var ag = 13794;
+var sum6 = ab + ac + ad + ae + af + ag;
+console.log (sum6);
 
-// Elf #7
-25121
-22211
-21257
+// Elf #7: 68, 589
+var ah = 25121;
+var ai = 22211;
+var aj = 21257;
+var sum7 = ah + ai + aj;
+console.log (sum7);
 
-// Elf #8
-6360
-4007
-5124
-2266
-6943
-6966
-3887
-3427
-1255
-5266
-6119
-2841
+// Elf #8: 54,461
+var ak = 6360;
+var al = 4007;
+var am = 5124;
+var an = 2266;
+var ao = 6943;
+var ap = 6966;
+var aq = 3887;
+var ar = 3427;
+var as = 1255;
+var at = 5266;
+var au = 6119;
+var av = 2841;
+var sum8 = ak + al + am + an + ao + ap + aq + ar + as + at + au + av;
+console.log (sum8);
 
 // Elf #9
 6167
@@ -311,6 +325,7 @@
 19089
 36719
 
+// Elf #34
 5372
 7085
 8536
@@ -321,6 +336,7 @@
 7729
 3055
 
+// e;f #35
 4406
 2263
 6686
